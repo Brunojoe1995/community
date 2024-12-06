@@ -1,6 +1,6 @@
 ---
 name: TEP
-about: Create a TEP pull-request
+about: Deconfigure Created TEP pull-request
 ---
 
 <!-- 🎉🎉🎉 Thank you for the PR!!! 🎉🎉🎉 -->
